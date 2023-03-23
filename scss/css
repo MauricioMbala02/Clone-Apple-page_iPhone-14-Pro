@@ -1,0 +1,44 @@
+display: inline-block;
+color: transparent;
+-webkit-background-clip: text;
+background-clip: text;
+background-image: linear-gradient(180deg,#ffb6ff,#b344ff);
+will-change: transform;
+overflow: hidden;
+background-color: #ffb6ff 0%;
+
+
+display: inline-block;
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    background-image: linear-gradient(180deg,#ffb6ff,#b344ff);
+    will-change: transform;
+    overflow: hidden;
+    background-color: #ffb6ff 0%;
+
+
+
+
+    position: relative;
+            background-color: #000;
+            width: 20%;
+            height: 40%;
+            border-radius: 6%;
+            overflow: hidden;
+
+
+            position: relative;
+            background-color: #000;
+            width: 30%;
+            height: 40%;
+            border-radius: 6%;
+            margin-left: 1%;
+            overflow: hidden;
+
+
+            font-size: 28px;
+            line-height: 1.14286;
+            font-weight: 600;
+            letter-spacing: 0.007em;
+            font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
